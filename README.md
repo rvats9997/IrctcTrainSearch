@@ -1,7 +1,7 @@
 # IrctcTrainSearch
 Selenium automation project
 
-<!-- Priority is Firefox browser in my case -->
+Priority is Firefox browser in my case
 
 IRCTC Train Search automation
 
